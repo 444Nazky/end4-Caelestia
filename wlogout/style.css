@@ -1,0 +1,37 @@
+window {
+    background-color: rgba(30, 30, 46, 0.95);
+    border-radius: 12px;
+}
+
+button {
+    background-color: #313244;
+    color: #cdd6f4;
+    border-radius: 8px;
+    border: none;
+    margin: 8px;
+    padding: 12px 24px;
+    font-size: 14px;
+}
+
+button:hover {
+    background-color: #cba6f7;
+    color: #1e1e2e;
+}
+
+button.lock {
+    background-color: #f38ba8;
+}
+
+button.logout {
+    background-color: #89b4fa;
+}
+
+button.shutdown {
+    background-color: #a6e3a1;
+    color: #1e1e2e;
+}
+
+button.reboot {
+    background-color: #fab387;
+    color: #1e1e2e;
+}
