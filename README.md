@@ -180,6 +180,7 @@ Customize monitors in `hypr/monitors.conf` and personal prefs in `hypr/userprefs
 
 - [Nazky](https://github.com/444Nazky) — maintainer
 - [Cursor Agent](https://github.com/cursoragent) — docs and tooling assistance
+- [OpenCode](https://opencode.ai) — AI assistant & code contributor
 
 ## Credits
 
