@@ -176,6 +176,11 @@ Customize monitors in `hypr/monitors.conf` and personal prefs in `hypr/userprefs
 - Install `waybar` and ensure `~/.config/waybar/config.jsonc` points at this repo
 - Temperature needs a valid `thermal-zone` for your hardware
 
+## Contributors
+
+- [Nazky](https://github.com/444Nazky) — maintainer
+- [Cursor Agent](https://github.com/cursoragent) — docs and tooling assistance
+
 ## Credits
 
 - [Hyprland](https://hyprland.org/)
